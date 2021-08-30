@@ -1,0 +1,117 @@
+{
+	"type": "object",
+	"properties": {
+		"header.underGround": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Underground"
+		,	"description": "This is the description of Underground."
+		}	
+		,	"header.overhead": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "OverHead"
+		,	"description": "This is the description of OverHead."
+		}
+		,	"header.utilities": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Utilities"
+		,	"description": "This is the description of Utilities."
+		}
+		,	"header.earthing": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Earthing"
+		,	"description": "This is the description of Earthing."
+		}
+		,	"header.thermoweld": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Thermoweld"
+		,	"description": "This is the description of Thermoweld."
+		}
+		,	"header.lvandmv": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Lv & Mv cable Accessories"
+		,	"description": "This is the description of Lv & Mv Cable Accessories."
+		}
+		,	"header.substation": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Substation & Transmission"
+		,	"description": "This is the description of Substation & Transmission."
+		}
+		,	"header.busbars": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Busbars & Flexibles"
+		,	"description": "This is the description of Busbars & Flexibles."
+		}
+		,	"header.toolsandsafety": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Tools & Safety"
+		,	"description": "This is the description of Tools & Safety."
+
+		}
+		,	"header.cable": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Cable & Conduit"
+		,	"description": "This is the description of Cable & Conduit."
+
+		}
+		,	"header.fr3": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "FR3"
+		,	"description": "This is the description of FR3."
+
+		}
+		,	"header.switchgear": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "SwitchGear"
+		,	"description": "This is the description of SwitchGear."
+
+		}
+		,	"header.lugs": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Lugs Links & Clamps"
+		,	"description": "This is the description of Lugs, Links & Clamps."
+
+		}
+		,	"header.under": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Under Construction"
+		,	"description": "This is the description of Under Construction."
+		}
+		,	"header.specials": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "array"
+		,	"title": "Specials"
+		,	"description": "This is the description of Specials."
+		}
+
+	}
+		}
+	
