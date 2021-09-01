@@ -1,0 +1,19 @@
+{
+    "gulp": {
+        "javascript": [
+            "JavaScript/*"
+        ],
+        "images": [
+            "Images/*"
+        ],
+        "templates": [
+            "Templates/*"
+        ],
+        "configuration": [
+            "Configuration/*.json"
+        ]
+    },
+    "overrides":{
+        "Advanced/Header/Javascript/Header.Menu.View.ts":"Javascript/Header.Menu.View.ts"
+    }
+}

@@ -1,0 +1,44 @@
+{
+	"type": "object",
+    "subtab": {
+        "id": "header",
+        "title": "Header",
+        "description": "Header related settings",
+        "docRef": "bridgehead_4393268747",
+        "group": "layout"
+    }
+,	"properties": {
+		"header.notShowCurrencySelector": {
+			"group": "layout",
+			"subtab": "header"
+		,	"type": "boolean"
+		,	"title": "Hide Currency Selector"
+		,	"description": "Check this box to hide the currency selector in the application."
+		,	"default": false
+		}
+	,	"header.mydata":{
+		"group":"layout",
+		"subtab":"header",
+		"type":"array",
+		"title":"My Data",
+		"description":"My data container",
+		"items":{
+			"type":"object",
+			"properties":{
+				"text":{
+					"type":"string",
+					"title":"Text",
+					"translate":true,
+					"description":"Text description"
+				},
+				"colorcode":{
+					"type":"string",
+					"title":"Color Code",
+					"translate":true,
+					"description":"this field container the color codes"
+				}
+			}
+		}
+	}
+	}
+}
